@@ -8,12 +8,16 @@ Made with [expo]
   </video>
 </figure>
 
-![Sign up screen](/assets/signup.png 'Sign Up Screen')
-![Sign in screen](/assets/signin.png 'Sign In Screen')
-![Home screen](/assets/home.png 'Home Screen')
-![Room screen](/assets/room.png 'Room Screen')
-![Profile screen](/assets/profile.png 'Profile Screen')
+![SignUp](/assets/signup.png 'Sign Up Screen')
+![SignIn](/assets/signin.png 'Sign In Screen')
+![Home](/assets/home.png 'Home Screen')
+![Room](/assets/room.png 'Room Screen')
+![Profile](/assets/profile.png 'Profile Screen')
 
 <!-- links -->
 
 [expo]: https://docs.expo.io/
+
+img {
+max-width: 200px;
+}
