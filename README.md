@@ -1,20 +1,15 @@
 # Airbnb clone
 
 Made with [expo]
-![](/assets/airbnb.mp4)
-
-<video width="320" height="240" controls>
-  <source src="/assets/airbnb.mp4" type="video/mp4">
-</video>
 
 ## Screenshots
 
 <p display="inline">
-    <img src="/assets/signup.png" width="200"/>
-    <img src="/assets/signin.png" width="200"/>
-    <img src="/assets/home.png" width="200"/>
-    <img src="/assets/room.png" width="200"/>
-    <img src="/assets/profile.png" width="200"/>
+    <img src="/assets/signup.png" width="250"/>
+    <img src="/assets/signin.png" width="250"/>
+    <img src="/assets/home.png" width="250"/>
+    <img src="/assets/room.png" width="250"/>
+    <img src="/assets/profile.png" width="250"/>
 </p>
 
 ## Packages
