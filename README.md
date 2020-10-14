@@ -17,7 +17,3 @@ Made with [expo]
 <!-- links -->
 
 [expo]: https://docs.expo.io/
-
-img {
-max-width: 200px;
-}
