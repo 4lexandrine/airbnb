@@ -8,11 +8,11 @@ Made with [expo]
   </video>
 </figure>
 
-![Sign up screen](/assets/signup.png =400x)
-![Sign in screen](/assets/signin.png =400x)
-![Home screen](/assets/home.png =400x)
-![Room screen](/assets/room.png =400x)
-![Profile screen](/assets/profile.png =400x)
+![Sign up screen](/assets/signup.png 'Sign Up Screen')
+![Sign in screen](/assets/signin.png 'Sign In Screen')
+![Home screen](/assets/home.png 'Home Screen')
+![Room screen](/assets/room.png 'Room Screen')
+![Profile screen](/assets/profile.png 'Profile Screen')
 
 <!-- links -->
 
